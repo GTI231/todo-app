@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "userInterfaceStyle": "dark",
+    "name": "todo-app",
+    "slug": "todo-app",
+    "orientation": "portrait",
+    "version": "1.0.0",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.yarzue.todo-app"
+    },
+    "android": {
+      "package": "com.yarzue.todo_app"
+    }
+  }
+}
